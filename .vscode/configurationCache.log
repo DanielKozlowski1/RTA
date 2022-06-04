@@ -1,1 +1,0 @@
-{"buildTargets":["clean","down-stack","fmt","init","lint","poetry.lock","pyproject.toml","run-stack","scrape","shell","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
