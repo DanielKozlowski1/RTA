@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "RTA"
+version = "0.1.0"
+description = "Project for RTA"
+authors = ["Daniel Kozłowski <dk82362@student.sgh.waw.pl>"]
+
+[tool.poetry.dependencies]
+python = "^3.9.6"
+numpy = "^1.22.4"
+pandas = "^1.4.2"
+Flask = "^2.1.2"
+sklearn = "^0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
